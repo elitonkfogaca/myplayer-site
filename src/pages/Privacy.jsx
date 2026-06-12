@@ -104,7 +104,7 @@ export default function Privacy() {
             &copy; {new Date().getFullYear()} myPlayer. Todos os direitos reservados.
           </div>
           <div className="footer-text">
-            Dúvidas? Fale conosco: <a href="mailto:seuemail@dominio.com" className="footer-email">elitondaniel@outlook.com</a>
+            Dúvidas? Fale conosco: <a href="mailto:elitondaniel@outlook.com" className="footer-email">elitondaniel@outlook.com</a>
           </div>
         </div>
       </footer>
